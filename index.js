@@ -2,7 +2,7 @@ const api = "https//URL";
 const snekfetch = require("snekfetch");
 const Discord = require('discord.js');
 const client = new Discord.Client();
-client.login("botkey");
+client.login("NTI3MjA1OTU2NDAxMTAyODYw.DwUO9Q.WTLD5L0jBARSp5A84wmaX-C7Nb0");// this is a prank! ;)
 client.once('ready', () => {
     console.log('Ready!');
 });
