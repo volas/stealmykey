@@ -1,5 +1,5 @@
 # Players-Bot
-shows the number of players and admins on the server
+показывает число игроков и админов на сервере
 
 # Commands
 Сколько игроков (!players) - пишет сколько игроков на сервере в личные сообщения
